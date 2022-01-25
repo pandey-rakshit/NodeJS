@@ -20,11 +20,17 @@
 ## Getting-Started
 
 ### What is Node.JS?
-<!-- > JavaScript is the programming language that runs in a Browser and is used to manipulate DOM. -->
-> Node.JS is a JavaScript Runtime.
 
-> Node.JS allows JavaScript code to run on the Server or any machine.
+![nodejs logo](img/nodejs.png)
 
-> Node.JS uses V8 (engine)
+* Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).
+
+* Node.js was developed by Ryan Dahl in 2009
+
+> Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. Node.js applications are written in JavaScript.
+
+``` 
+Node.js = Runtime Environment + JavaScript Library
+```
 
 ## Node-Basics
