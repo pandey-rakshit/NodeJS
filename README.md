@@ -3,6 +3,7 @@
 ##### Table of Contents
 * [Getting Started](#Getting-Started)
 * [Node.js Basics](#Node-Basics)
+* [JavaScript Summary](javascript.md)
 <!-- * [Express](#Express)
 * [Templating Engines](#Templating-Engines)
 * [Model-View-Controller](#MVC)
@@ -81,5 +82,5 @@ To run or execute nodejs file
     // here
 
 ```
-    > node first-app.js
+    node first-app.js
 ```
