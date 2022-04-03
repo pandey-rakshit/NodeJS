@@ -1,6 +1,7 @@
 # [JavaScript](https://www.javascript.com/)
 
 Javascript (JS) is a lightweight, interpreted, object-oriented language.
+* JavaScript is a synchronous single threaded language.
 
 ## Summary
 
